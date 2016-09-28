@@ -9,13 +9,35 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/NiftyDialogEffects-master" />
+            <option value="$PROJECT_DIR$/RecyclerViewDemo" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/flowlayout" />
+            <option value="$PROJECT_DIR$/gooview" />
+            <option value="$PROJECT_DIR$/jrttdemo" />
+            <option value="$PROJECT_DIR$/layoutanim" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/news360demo" />
+            <option value="$PROJECT_DIR$/qq5.0" />
+            <option value="$PROJECT_DIR$/swipelayout" />
+            <option value="$PROJECT_DIR$/webviewdemo" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/NiftyDialogEffects-master" />
+            <option value="$PROJECT_DIR$/RecyclerViewDemo" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/flowlayout" />
+            <option value="$PROJECT_DIR$/gooview" />
+            <option value="$PROJECT_DIR$/jrttdemo" />
+            <option value="$PROJECT_DIR$/layoutanim" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/news360demo" />
+            <option value="$PROJECT_DIR$/qq5.0" />
+            <option value="$PROJECT_DIR$/swipelayout" />
+            <option value="$PROJECT_DIR$/webviewdemo" />
           </set>
         </option>
       </GradleProjectSettings>

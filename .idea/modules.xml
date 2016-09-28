@@ -3,7 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NiftyDialogEffects-master/NiftyDialogEffects-master.iml" filepath="$PROJECT_DIR$/NiftyDialogEffects-master/NiftyDialogEffects-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerViewDemo/RecyclerViewDemo.iml" filepath="$PROJECT_DIR$/RecyclerViewDemo/RecyclerViewDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flowlayout/flowlayout.iml" filepath="$PROJECT_DIR$/flowlayout/flowlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gooview/gooview.iml" filepath="$PROJECT_DIR$/gooview/gooview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jrttdemo/jrttdemo.iml" filepath="$PROJECT_DIR$/jrttdemo/jrttdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layoutanim/layoutanim.iml" filepath="$PROJECT_DIR$/layoutanim/layoutanim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news360demo/news360demo.iml" filepath="$PROJECT_DIR$/news360demo/news360demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qq5.0/qq5.0.iml" filepath="$PROJECT_DIR$/qq5.0/qq5.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipelayout/swipelayout.iml" filepath="$PROJECT_DIR$/swipelayout/swipelayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webviewdemo/webviewdemo.iml" filepath="$PROJECT_DIR$/webviewdemo/webviewdemo.iml" />
     </modules>
   </component>
 </project>

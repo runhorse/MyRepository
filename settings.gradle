@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':news360demo', ':webviewdemo', ':jrttdemo', ':qq5.0', ':swipelayout', ':layoutanim', ':flowlayout', ':gooview', 'NiftyDialogEffects-master', ':library', ':RecyclerViewDemo'
