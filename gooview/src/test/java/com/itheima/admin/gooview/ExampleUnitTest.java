@@ -1,4 +1,4 @@
-package com.example.administrator.myapplication;
+package com.itheima.admin.gooview;
 
 import org.junit.Test;
 
